@@ -37,5 +37,25 @@ More about this dataset is widely available on sites like Kaggle. :contentRefere
 
 ---
 
-## 🗂 Repo Structure
+
+---
+
+## 📈 Summary of Insights
+
+- Smokers pay **significantly higher** insurance costs than non-smokers.  
+- Insurance charges tend to **increase with age and BMI**.  
+- People in certain regions showed small but meaningful cost differences.
+
+---
+
+## 📷 Visualizations
+
+<img width="792" height="727" alt="image" src="https://github.com/user-attachments/assets/3302274c-ff56-4253-995a-891ec5658d7c" />
+
+<img width="847" height="695" alt="image" src="https://github.com/user-attachments/assets/b91af244-051a-4c84-9538-77e072e55a7c" />
+
+<img width="827" height="530" alt="image" src="https://github.com/user-attachments/assets/2d8bf4db-a769-4c43-9bd0-0a0cd5aea6cb" />
+
+
+
 
